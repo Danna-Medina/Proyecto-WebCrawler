@@ -9,13 +9,6 @@ Este proyecto es un web crawler desarrollado en Python que utiliza la API de Git
 - Genera un archivo Excel con los detalles de los repositorios.
 - Abre automáticamente el archivo Excel en la aplicación predeterminada del sistema operativo.
 
-## Instalación
-
-1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener Python instalado en tu sistema.
-3. Instala las librerías requeridas ejecutando el siguiente comando en tu terminal:
-
-
 ## Ejecución
 
 1. Abre tu terminal y navega hasta la carpeta raíz del proyecto.
@@ -27,7 +20,7 @@ Este proyecto es un web crawler desarrollado en Python que utiliza la API de Git
 7. En la consola, se mostrará un mensaje indicando que el archivo se ha abierto en la aplicación predeterminada.
 8. Puedes revisar los repositorios, sus propietarios, URLs y puntuaciones en el archivo Excel.
 9. Además, puedes hacer clic en las URLs en el archivo Excel para abrir directamente los repositorios en GitHub y obtener más información.
-10. 
+
 # 🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷
 
 A continuación, se muestra un ejemplo de lo que puedes esperar en cada etapa:
