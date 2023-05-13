@@ -28,7 +28,7 @@ Este proyecto es un web crawler desarrollado en Python que utiliza la API de Git
 8. Puedes revisar los repositorios, sus propietarios, URLs y puntuaciones en el archivo Excel.
 9. Además, puedes hacer clic en las URLs en el archivo Excel para abrir directamente los repositorios en GitHub y obtener más información.
 10. 
-# 🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷
+# 🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷🥷
 
 A continuación, se muestra un ejemplo de lo que puedes esperar en cada etapa:
 
